@@ -12,6 +12,8 @@ Github offers hosting for your personal blog. All you need to do is to create a 
 
 Github will automatically offer to host it. Accept, create it, and setup your repo in a local folder with the commands given.
 
+Then, put the content of this repository (download the ZIP or git clone) in this folder.
+
 ## What file is what?
 
 - `config.yml`: Page to change your name, profile picture, linkedin, github link, add Google analytics...
