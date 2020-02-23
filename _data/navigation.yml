@@ -1,0 +1,8 @@
+# main links links
+main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Projects"
+    url: /portfolio/
+  - title: "CV"
+    url: /assets/images/CV.pdf
