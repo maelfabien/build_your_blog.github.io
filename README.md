@@ -1,6 +1,6 @@
 # Building your blog with Jekyll Minimal Mistake
 
-This blog is a version that I slightly modified from the Jekyll Minimal Mistake blog. I am using it for my personal blog: [maelfabien.github.io](maelfabien.github.io).
+This blog is a version that I slightly modified from the Jekyll Minimal Mistake blog. I am using it for my personal blog: [maelfabien.github.io](https://maelfabien.github.io/).
 
 In this folder, you'll find the steps to build your own blog. Jekyll mainly uses Markdown, rather than HTML, which makes it really easy to play around with.
 
