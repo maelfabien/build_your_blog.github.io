@@ -33,8 +33,11 @@ All the other files are default ones, have a look at them, but you don't need to
 - Take a look at `index.md` to check how to put links, bold text, scripts... Keep this information somewhere, it's a good template.
 - Change the config file, and your personal image in the `assets/images` folder.
 - Set up the tabs you want to display using `navigation.yml`. Watch out, they must point to existing pages in order to work.
+
+![images](/assets/images/banner.png)
+
 - Add pages if needed, or simply stick to the existing ones: a `blog.md` to add your articles inside, and a `portfolio-archive` that automatically displays your projects.
-- Change the favicon
+- Change the favicon. Check a favicon generator like [this one](https://favicon.io/).
 - Change the `index.md` page and describe yourself
 - Change in `navigation.md` the link to your resume. Add your resume in the `assets/images` or `assets/files`.
 - Write your first article in the `_posts` section using the existing template. 
